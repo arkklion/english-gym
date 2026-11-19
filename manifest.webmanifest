@@ -1,0 +1,16 @@
+{
+  "name": "AMAKUMA 英語ジム",
+  "short_name": "英語ジム",
+  "description": "ワーホリで使う英語を、毎日少しずつ練習するアプリ",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#EAF5FB",
+  "theme_color": "#EAF5FB",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
